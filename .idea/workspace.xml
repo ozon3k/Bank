@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfc35ff-dc5e-4c6c-8cbc-7068bc0db681" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/pawelozga/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pawelozga/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pawelozga/Firmowy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pawelozga/Osobisty.java" afterDir="false" />
+    <list default="true" id="ddfc35ff-dc5e-4c6c-8cbc-7068bc0db681" name="Default" comment="Programik w połowie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pawelozga/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pawelozga/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pawelozga/Firmowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pawelozga/Firmowy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/pawelozga/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pawelozga/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pawelozga/Osobisty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pawelozga/Osobisty.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +21,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/pawelozga/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            <state relative-caret-position="221">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -32,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/pawelozga/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -40,8 +39,8 @@
       <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pawelozga/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+            <state relative-caret-position="340">
+              <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
               <folding>
                 <element signature="e#176#177#0" expanded="true" />
                 <element signature="e#203#204#0" expanded="true" />
@@ -67,11 +66,12 @@
       <file leaf-file-name="Osobisty.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pawelozga/Osobisty.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="170">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,8 +80,8 @@
       <file leaf-file-name="Firmowy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pawelozga/Firmowy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="422">
+              <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
               <folding>
                 <element signature="e#130#131#0" expanded="true" />
                 <element signature="e#156#157#0" expanded="true" />
@@ -91,6 +91,8 @@
                 <element signature="e#284#285#0" expanded="true" />
                 <element signature="e#326#327#0" expanded="true" />
                 <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,8 +114,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/pawelozga/Bank.java" />
-        <option value="$PROJECT_DIR$/src/com/pawelozga/Firmowy.java" />
         <option value="$PROJECT_DIR$/src/com/pawelozga/Osobisty.java" />
+        <option value="$PROJECT_DIR$/src/com/pawelozga/Firmowy.java" />
         <option value="$PROJECT_DIR$/src/com/pawelozga/Account.java" />
         <option value="$PROJECT_DIR$/src/com/pawelozga/Main.java" />
       </list>
@@ -209,12 +211,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532166096751</updated>
-      <workItem from="1532166103715" duration="3613000" />
+      <workItem from="1532166103715" duration="5197000" />
     </task>
+    <task id="LOCAL-00001" summary="Programik w połowie">
+      <created>1532169830632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532169830632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3613000" />
+    <option name="totallyTimeSpent" value="5197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -222,14 +232,15 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32750398" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" weight="0.31478536" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34022257" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -282,18 +293,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programik w połowie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programik w połowie" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/pawelozga/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pawelozga/Firmowy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="422">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
           <folding>
             <element signature="e#130#131#0" expanded="true" />
             <element signature="e#156#157#0" expanded="true" />
@@ -303,25 +311,35 @@
             <element signature="e#284#285#0" expanded="true" />
             <element signature="e#326#327#0" expanded="true" />
             <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pawelozga/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pawelozga/Osobisty.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="170">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pawelozga/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        <state relative-caret-position="340">
+          <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
           <folding>
             <element signature="e#176#177#0" expanded="true" />
             <element signature="e#203#204#0" expanded="true" />
@@ -345,8 +363,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pawelozga/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        <state relative-caret-position="221">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
         </state>
       </provider>
     </entry>

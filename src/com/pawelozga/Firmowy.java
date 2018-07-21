@@ -28,5 +28,8 @@ public class Firmowy extends Account {
     }
 
 
-
+    @Override
+    public rachunek getType() {
+        return rachunek.FIRMOWY;
+    }
 }

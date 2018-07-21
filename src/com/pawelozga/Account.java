@@ -34,11 +34,16 @@ boolean czyOtwarty = false;
         this.stanKonta = stanKonta;
     }
 
+    public abstract rachunek getType();
+
+
     public Account(String dane, String numerKonta, int stanKonta){
         this.dane = dane;
         this.numerKonta = numerKonta;
         this.stanKonta =stanKonta;
     }
+
+
 
     public void otwarcie(){
         this.czyOtwarty= true;
@@ -46,8 +51,22 @@ boolean czyOtwarty = false;
     public void zamkniecie() {
         this.czyOtwarty= false;
     }
-    public void wplata(){}
-    public void wyplata(){}
+    public void wplata(int w){
+        if (czyOtwarty= true){
+
+            this.stanKonta = stanKonta + w;
+        }else{
+            System.out.println("konto zamknięte");
+        }
+    }
+    public void wyplata(int w){
+        if (czyOtwarty =true){
+            this.stanKonta = stanKonta - w;
+
+        }else{
+            System.out.println("konto zamknięte");
+        }
+    }
 
 
 
